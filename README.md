@@ -27,21 +27,26 @@ The app gives a report on the portfolio performance of the clients’ bitcoin in
 ## Structure
 
     - data
+         - Test
         -- pricesData.js
         -- transactionsData.js
 
     - transformers
+         - Test
         -- transformPrices.js
         -- transformValues.js
 
     - helper
+         - Test
         -- addPrice.js
         -- addValue.js
 
     - constructor
+         - Test
         -- addReportData.js
 
     - view
+         - Test
         -- PortfolioPerformance.js
 
     index.js
@@ -49,6 +54,7 @@ The app gives a report on the portfolio performance of the clients’ bitcoin in
 ## Technologies:
 
 - Javascript
+- Jest
 
 ## Author:
 
